@@ -1,0 +1,575 @@
+[
+	{
+		"id": 1000,
+		"name": "Kasse",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1010,
+		"name": "Post privat",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1011,
+		"name": "Post G.",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1012,
+		"name": "NKB Claudia",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1013,
+		"name": "Kreditkarte",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1014,
+		"name": "Euro",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1019,
+		"name": "Tiefgarage",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1090,
+		"name": "Poker",
+		"kategorie": "Liquide Mittel",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1100,
+		"name": "Debitoren",
+		"kategorie": "Forderungen",
+		"klasse": "Bilanz"
+	},
+{ "id": 1101, "name": "ARCON", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1102, "name": "Comtronic", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1103, "name": "AHB", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1104, "name": "Flubag", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1105, "name": "Abegg", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1106, "name": "OTTOS CARS", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1107, "name": "carware", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1108, "name": "Fümm", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1109, "name": "Burkart", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1110, "name": "MSH Alpnach", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  { "id": 1111, "name": "Garage Bolzern", "kategorie": "Forderungen", "klasse": "Bilanz" },
+  {
+		"id": 1176,
+		"name": "Debitoren Tiefg",
+		"kategorie": "Forderungen",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1109,
+		"name": "Delkredere",
+		"kategorie": "Forderungen",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1510,
+		"name": "Mobiliar",
+		"kategorie": "Anlagevermögen",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1300,
+		"name": "Trans. A",
+		"kategorie": "Anlagevermögen",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 1520,
+		"name": "EDV Anlagen",
+		"kategorie": "Anlagevermögen",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2000,
+		"name": "Kreditoren",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2001,
+		"name": "Concordia",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2002,
+		"name": "Mobiliar",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2003,
+		"name": "Galliker",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2004,
+		"name": "Borova",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2005,
+		"name": "Swisscom",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2006,
+		"name": "AHV",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2007,
+		"name": "Axa",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2008,
+		"name": "Süess",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2009,
+		"name": "Nahrin",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2010,
+		"name": "EWN",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2011,
+		"name": "Gemeinde",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2012,
+		"name": "Netzone",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2013,
+		"name": "VSZ",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2014,
+		"name": "Heller",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2015,
+		"name": "Driver",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2016,
+		"name": "NSV",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2017,
+		"name": "Serafe",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2018,
+		"name": "Näf",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2019,
+		"name": "Soltherm",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2020,
+		"name": "AldiMobile",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2021,
+		"name": "CarHost",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2022,
+		"name": "Bike Atelier",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2023,
+		"name": "Finanzverwaltung",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2024,
+		"name": "Dr. Odermatt",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2025,
+		"name": "DigitalRepublic",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2026,
+		"name": "SBB",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2027,
+		"name": "Fuhrer",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2028,
+		"name": "Ticketino",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2029,
+		"name": "MSF",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2044,
+		"name": "Schüpfer",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2201,
+		"name": "Kredi MWST",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2300,
+		"name": "Transitori. P.",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2800,
+		"name": "Eröffnung",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2850,
+		"name": "Privatbezug",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 2991,
+		"name": "Jahreserfolg",
+		"kategorie": "Verbindlichkeiten",
+		"klasse": "Bilanz"
+	},
+	{
+		"id": 3600,
+		"name": "Honorar",
+		"kategorie": "Wareneinkauf",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 3601,
+		"name": "AHV",
+		"kategorie": "Wareneinkauf",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 3800,
+		"name": "Aldi Abo",
+		"kategorie": "Wareneinkauf",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 4400,
+		"name": "Beiträge Tiefgarage",
+		"kategorie": "Wareneinkauf",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 1180,
+		"name": "Guthaben Mobilabo / Prepaidkonto",
+		"kategorie": "Anlagevermögen",
+		"klasse": "Bilanz"
+	},
+
+
+
+   
+	{
+		"id": 6630,
+		"name": "Spenden",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 5700,
+		"name": "AHV",
+		"kategorie": "Betriebsaufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 5720,
+		"name": "Kranken/Unfallversicherung",
+		"kategorie": "Betriebsaufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 5800,
+		"name": "Zinsaufwand",
+		"kategorie": "Betriebsaufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6010,
+		"name": "Miete Büro",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6200,
+		"name": "Betrieb Auto",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6220,
+		"name": "VVersicherung Auto",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6300,
+		"name": "Sachversicherungen",
+		"kategorie": "Abschreibungen",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6500,
+		"name": "Büromaterial",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6510,
+		"name": "Telefon",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6512,
+		"name": "Internet",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6530,
+		"name": "Beratungskosten",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6640,
+		"name": "Reisespesen",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6641,
+		"name": "Rep. Spesen",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6800,
+		"name": "Zinsaufwand",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6920,
+		"name": "Abschreibungen",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6990,
+		"name": "Essen",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6995,
+		"name": "Investition Haus",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6997,
+		"name": "Lotto",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6111,
+		"name": "Aufwand Tiefgarage",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 6998,
+		"name": "Kleider / Wäsche",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 9999,
+		"name": "Privat",
+		"kategorie": "??",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 9998,
+		"name": "Tiefgarage",
+		"kategorie": "??",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 6999,
+		"name": "Hobby",
+		"kategorie": "Sonstiger Aufwand",
+		"klasse": "Erfolgsrechnung"
+	},
+	{
+		"id": 10131,
+		"name": "Konto 10131",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 91013,
+		"name": "KK Transfer",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 91000,
+		"name": "PC Uebertrag",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99006,
+		"name": "Konto 99006",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99013,
+		"name": "Konto 99013",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99022,
+		"name": "Konto 99022",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99050,
+		"name": "Konto 99050",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99077,
+		"name": "Konto 99077",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99080,
+		"name": "Konto 99080",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99085,
+		"name": "Konto 99085",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99099,
+		"name": "Konto 99099",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 99999,
+		"name": "Eröffnungsbilanz",
+		"kategorie": "Hilfskonto",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 200004,
+		"name": "Sonstiges Konto",
+		"kategorie": "Diverses",
+		"klasse": "Hilfskonto"
+	},
+	{
+		"id": 991011,
+		"name": "Jahresabschluss",
+		"kategorie": "Hilfskonto",
+		"klasse": "Hilfskonto"
+	}
+]

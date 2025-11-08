@@ -1,0 +1,23 @@
+/* src/app.css */
+:root {
+  --primary: #1e90ff;
+  --bg: #fafafa;
+  --text: #222;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Montserrat, sans-serif;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

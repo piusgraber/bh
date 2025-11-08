@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "originalFileName": "1011-1105.csv",
+    "importDate": "2025-11-05T14:48:13.880Z",
+    "recordCount": 1,
+    "importedBy": "CSV Import System",
+    "mapping": {
+      "firstFourDigitsFromFilename": "1011",
+      "largestExistingId": 51024,
+      "startingNewId": 51025,
+      "description": "IDs start from largest buchungen.json ID + 1. Negative amounts: soll=99999, haben=first4digits, betrag=abs(betrag). Positive amounts: soll=first4digits, haben=99999"
+    }
+  },
+  "data": [
+    {
+      "id": 51025,
+      "datum": "2025-11-03",
+      "soll": 99999,
+      "haben": 1011,
+      "buchungstext": "Kontoübertrag auf CH7709000000600586967",
+      "betrag": 1500,
+      "originaltext": "Kontoübertrag auf CH7709000000600586967",
+      "sollkd": null,
+      "wer": null,
+      "was": null,
+      "classifier": null,
+      "testfield": null,
+      "subkonto": 0,
+      "class": null,
+      "sollSaldo": 0,
+      "habenSaldo": 0,
+      "kategorie": "",
+      "kto": "2025-11-03",
+      "datestr": "2025-11-03",
+      "_original": {
+        "gutschrift": "",
+        "lastschrift": "-1500",
+        "valuta": "03.11.2025",
+        "saldo": "11142.76"
+      }
+    }
+  ]
+}

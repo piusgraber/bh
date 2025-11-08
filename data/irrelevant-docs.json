@@ -1,0 +1,403 @@
+{
+  "data": [
+    {
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null,
+      "id": 1
+    },
+    {
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null,
+      "id": 2
+    },
+    {
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null,
+      "id": 3
+    },
+    {
+      "docname": "AHV Beiträge_20240116_3551.45.pdf",
+      "partner": "AHV Beiträge",
+      "datum": "2024-01-16",
+      "betrag": 3551.45,
+      "id": 4
+    },
+    {
+      "docname": "AHV Steuer 2023_20240101_23320.00.pdf",
+      "partner": "AHV Steuer 2023",
+      "datum": "2024-01-01",
+      "betrag": 23320,
+      "id": 5
+    },
+    {
+      "docname": "AHV Steuerausweis_20241231_28424.00.pdf",
+      "partner": "AHV Steuerausweis",
+      "datum": "2024-12-31",
+      "betrag": 28424,
+      "id": 6
+    },
+    {
+      "docname": null,
+      "partner": "AXA-Kranken-Praemienrechnung",
+      "datum": "2023-11-15",
+      "betrag": 3164,
+      "id": 7
+    },
+    {
+      "docname": null,
+      "partner": "AXA-Krankentaggeld vers",
+      "datum": "2024-11-15",
+      "betrag": 3164,
+      "id": 8
+    },
+    {
+      "docname": null,
+      "partner": "AXA-Reisevers",
+      "datum": "2023-08-15",
+      "betrag": 301.55,
+      "id": 9
+    },
+    {
+      "docname": null,
+      "partner": "AXA-Reiseversicherung",
+      "datum": "2024-08-14",
+      "betrag": 301.55,
+      "id": 10
+    },
+    {
+      "docname": "Axa Hypo 2023-4_20231201_2258.25.pdf",
+      "partner": "Axa Hypo 2023-4",
+      "datum": "2023-12-01",
+      "betrag": 2258.25,
+      "id": 11
+    },
+    {
+      "docname": "Axa Hypo Steuer_20240318_167.70.pdf",
+      "partner": "Axa Hypo Steuer",
+      "datum": "2024-03-18",
+      "betrag": 167.7,
+      "id": 12
+    },
+    {
+      "docname": null,
+      "partner": "Barbatti",
+      "datum": "2025-09-12",
+      "betrag": 420.8,
+      "id": 13
+    },
+    {
+      "docname": "Bescheinigung_20231231_12074.00.pdf",
+      "partner": "Bescheinigung",
+      "datum": "2023-12-31",
+      "betrag": 12074,
+      "id": 14
+    },
+    {
+      "docname": null,
+      "partner": "Bistro",
+      "datum": "2025-04-10",
+      "betrag": 100.3,
+      "id": 15
+    },
+    {
+      "docname": null,
+      "partner": "Brunner",
+      "datum": "2024-05-01",
+      "betrag": 135,
+      "id": 16
+    },
+    {
+      "docname": null,
+      "partner": "Busse Italien1",
+      "datum": "2024-11-05",
+      "betrag": 54.4,
+      "id": 17
+    },
+    {
+      "docname": null,
+      "partner": "Busse Italien2",
+      "datum": "2024-11-05",
+      "betrag": 54.4,
+      "id": 18
+    },
+    {
+      "docname": null,
+      "partner": "Busse",
+      "datum": "2025-01-27",
+      "betrag": 40,
+      "id": 19
+    },
+    {
+      "docname": null,
+      "partner": "Calexico",
+      "datum": "2025-03-14",
+      "betrag": 170,
+      "id": 20
+    },
+    {
+      "docname": null,
+      "partner": "CasaTolone",
+      "datum": "2024-12-14",
+      "betrag": 491.6,
+      "id": 21
+    },
+    {
+      "docname": null,
+      "partner": "Cascinabo",
+      "datum": "2025-10-12",
+      "betrag": 855,
+      "id": 22
+    },
+    {
+      "docname": "Concordia Steuer_20241231_3142.20.pdf",
+      "partner": "Concordia Steuer",
+      "datum": "2024-12-31",
+      "betrag": 3142.2,
+      "id": 23
+    },
+    {
+      "docname": null,
+      "partner": "EWN",
+      "datum": "2023-10-10",
+      "betrag": 706,
+      "id": 24
+    },
+    {
+      "docname": null,
+      "partner": "EWN",
+      "datum": "2024-07-10",
+      "betrag": 1809.45,
+      "id": 25
+    },
+    {
+      "docname": null,
+      "partner": "Gemeinde-Wasser",
+      "datum": "2024-12-20",
+      "betrag": 635.4,
+      "id": 26
+    },
+    {
+      "docname": null,
+      "partner": "Glas Müller",
+      "datum": "2024-12-05",
+      "betrag": 264.7,
+      "id": 27
+    },
+    {
+      "docname": null,
+      "partner": "Herlisberg",
+      "datum": "2025-03-21",
+      "betrag": 162.3,
+      "id": 28
+    },
+    {
+      "docname": null,
+      "partner": "Iheimisch",
+      "datum": "2024-10-29",
+      "betrag": 68,
+      "id": 29
+    },
+    {
+      "docname": null,
+      "partner": "Intemporel",
+      "datum": "2025-08-22",
+      "betrag": 201,
+      "id": 30
+    },
+    {
+      "docname": "Jumbo_20250131_14.50.pdf",
+      "partner": "Jumbo",
+      "datum": "2025-01-31",
+      "betrag": 14.5,
+      "id": 31
+    },
+    {
+      "docname": null,
+      "partner": "Kamiko",
+      "datum": "2025-08-23",
+      "betrag": 240,
+      "id": 32
+    },
+    {
+      "docname": null,
+      "partner": "LE CREUSET Bern",
+      "datum": "2025-10-25",
+      "betrag": 226,
+      "id": 33
+    },
+    {
+      "docname": null,
+      "partner": "MSF",
+      "datum": "2024-08-05",
+      "betrag": 240,
+      "id": 34
+    },
+    {
+      "docname": "Mastri_20251010_289.00.pdf",
+      "partner": "Mastri",
+      "datum": "2025-10-10",
+      "betrag": 289,
+      "id": 35
+    },
+    {
+      "docname": "Mobiliar_20240810_800.42.pdf",
+      "partner": "Mobiliar",
+      "datum": "2024-08-10",
+      "betrag": 800.42,
+      "id": 36
+    },
+    {
+      "id": 37,
+      "docname": null,
+      "partner": "Multislides EUR",
+      "datum": "2024-11-22",
+      "betrag": 97.85
+    },
+    {
+      "docname": null,
+      "partner": "Multislides",
+      "datum": "2024-11-22",
+      "betrag": 100,
+      "id": 38
+    },
+    {
+      "docname": null,
+      "partner": "Multislides",
+      "datum": "2024-11-25",
+      "betrag": 24.85,
+      "id": 39
+    },
+    {
+      "docname": null,
+      "partner": "Narayana",
+      "datum": "2024-02-19",
+      "betrag": 94.12,
+      "id": 40
+    },
+    {
+      "docname": "Public Chilli_20241228_1920.00.pdf",
+      "partner": "Public Chilli",
+      "datum": "2024-12-28",
+      "betrag": 1920,
+      "id": 41
+    },
+    {
+      "docname": null,
+      "partner": "Seeburg",
+      "datum": "2025-05-31",
+      "betrag": 636.5,
+      "id": 42
+    },
+    {
+      "docname": null,
+      "partner": "Splügen Sport",
+      "datum": "2025-02-25",
+      "betrag": 229,
+      "id": 43
+    },
+    {
+      "docname": null,
+      "partner": "Tanken F",
+      "datum": "2025-07-11",
+      "betrag": 70.01,
+      "id": 44
+    },
+    {
+      "docname": null,
+      "partner": "Tanken",
+      "datum": "2025-10-12",
+      "betrag": 47,
+      "id": 45
+    },
+    {
+      "docname": null,
+      "partner": "Thule",
+      "datum": "2024-05-17",
+      "betrag": 1099,
+      "id": 46
+    },
+    {
+      "docname": null,
+      "partner": "Waag",
+      "datum": "2025-09-06",
+      "betrag": 415.5,
+      "id": 47
+    },
+    {
+      "id": 48,
+      "docname": null,
+      "partner": "Wagner S",
+      "datum": "2025-09-25",
+      "betrag": 30
+    },
+    {
+      "docname": null,
+      "partner": "Winkelried",
+      "datum": "2025-09-04",
+      "betrag": 114.5,
+      "id": 49
+    },
+    {
+      "docname": null,
+      "partner": "Wok",
+      "datum": "2025-06-03",
+      "betrag": 109,
+      "id": 50
+    },
+    {
+      "id": 51,
+      "docname": null,
+      "partner": "Busse Carhost Ersatzwagen",
+      "datum": "2025-02-12",
+      "betrag": 40
+    },
+    {
+      "id": 1,
+      "docname": null,
+      "partner": "OTTOSCARS",
+      "datum": "2025-11-01",
+      "betrag": 1
+    },
+    {
+      "id": 2,
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null
+    },
+    {
+      "id": 3,
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null
+    },
+    {
+      "id": 4,
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null
+    },
+    {
+      "id": 52,
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null
+    },
+    {
+      "id": 53,
+      "docname": null,
+      "partner": "",
+      "datum": "",
+      "betrag": null
+    }
+  ]
+}

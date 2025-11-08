@@ -1,0 +1,8 @@
+# Vercel ignore file - exclude from deployment
+node_modules
+.git
+.svelte-kit
+scripts
+*.log
+.env*
+!.env.example
